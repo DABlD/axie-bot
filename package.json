@@ -1,0 +1,20 @@
+{
+  "name": "axiebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Mendoza",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "jquery": "^3.6.0",
+    "jsdom": "^18.1.0",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.34"
+  }
+}
